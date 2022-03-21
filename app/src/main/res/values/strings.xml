@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tegar Faris Nurhakim Apps</string>
+    <string name="namaklub">Nama Klub</string>
+    <string name="deskripsiklub">Deskripsi Klub</string>
+    <string name="Liga_Indonesia" >Klasemen Sementara Liga 1</string>
+    <string name="Nama_Klub" >Nama Klub Poin</string>
+    <string name="Halaman_Utama">Halaman Utama</string>
+    <string name="Halaman_Detail">Halaman Detail</string>
+    <string name="Halaman_Tentang">Halaman Tentang</string>
+</resources>
